@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: http://download.h2os.com/OnePlus8Pro/MP/OnePlus8ProHydrogen_15.H.20_OTA_020_all_2007021955_c0be2f16a0bc4be6.zip
-  ROM_NAME: Oxygen
+  ROM_NAME: OxygenOS
   TZ: Asia/Shanghai
 
 jobs:
