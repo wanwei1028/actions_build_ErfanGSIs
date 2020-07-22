@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://firmware.meizu.com/Firmware/Flyme/meizu17_Pro/8.1.2.2/cn/20200704153422/5fc9f15d/update.zip
-  ROM_NAME: Flyme
+  ROM_URL: http://download.h2os.com/OnePlus8Pro/MP/OnePlus8ProHydrogen_15.H.20_OTA_020_all_2007021955_c0be2f16a0bc4be6.zip
+  ROM_NAME: Oxygen
   TZ: Asia/Shanghai
 
 jobs:
