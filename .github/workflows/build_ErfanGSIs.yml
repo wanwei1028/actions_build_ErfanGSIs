@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: https://firmware.meizu.com/Firmware/Flyme/meizu17_Pro/8.1.2.2/cn/20200704153422/5fc9f15d/update.zip
-  ROM_NAME: Flymeos
+  ROM_NAME: Flyme
   TZ: Asia/Shanghai
 
 jobs:
